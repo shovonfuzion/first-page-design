@@ -1,0 +1,9 @@
+.bg-gredient-dark{
+    background: rgb(18, 127, 191);
+    background: -moz-linear-gradient(130deg, rgba(18, 127, 191, 1) 0%, rgba(3, 83, 136, 1) 100%);
+    background: -webkit-linear-gradient(130deg, rgba(18, 127, 191, 1) 0%, rgba(3, 83, 136, 1) 100%);
+    background: linear-gradient(130deg, rgba(18, 127, 191, 1) 0%, rgba(3, 83, 136, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#127fbf", endColorstr="#035388", GradientType=1);}
+    
+    .h-400px {
+    height: 25rem;}
